@@ -5,7 +5,7 @@ Trabalho final da disciplina Machine Learning Foundations and Classical Models. 
 ## Aluno
 
 * Turma: 4AIER
-* Luiz Paulo Prado -  RM377637, 
+* Luiz Paulo Prado -  RM377637 
 * Renato Romão - RM377019
 * Diego Moreira -  RM376480
 * Orlando Valverde - RM376801
